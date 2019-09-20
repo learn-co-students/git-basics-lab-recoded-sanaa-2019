@@ -3,7 +3,7 @@
     {
       "title": "has a folder named my-repository",
       "fullTitle": "this lab has a folder named my-repository",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
@@ -17,14 +17,14 @@
     {
       "title": "has a README.md file in the my-repository folder",
       "fullTitle": "this lab has a README.md file in the my-repository folder",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "has README.md as a tracked file",
       "fullTitle": "the local repository has README.md as a tracked file",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -38,7 +38,7 @@
     {
       "title": "has been pushed up to the remote repository",
       "fullTitle": "the local repository has been pushed up to the remote repository",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {
         "stack": "TypeError: Cannot read property 'passes' of undefined\n    at withReplacedStdout (node_modules/mocha-multi/mocha-multi.js:165:14)\n    at withReplacedStdout (node_modules/mocha-multi/mocha-multi.js:114:12)\n    at Runner.runner.on.eventArgs (node_modules/mocha-multi/mocha-multi.js:164:7)",
@@ -52,7 +52,7 @@
     {
       "title": "has been pushed up to the remote repository",
       "fullTitle": "the local repository has been pushed up to the remote repository",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {
         "stack": "TypeError: Cannot read property 'passes' of undefined\n    at withReplacedStdout (node_modules/mocha-multi/mocha-multi.js:165:14)\n    at withReplacedStdout (node_modules/mocha-multi/mocha-multi.js:114:12)\n    at Runner.runner.on.eventArgs (node_modules/mocha-multi/mocha-multi.js:164:7)",
@@ -65,7 +65,7 @@
     {
       "title": "has a folder named my-repository",
       "fullTitle": "this lab has a folder named my-repository",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
@@ -79,14 +79,14 @@
     {
       "title": "has a README.md file in the my-repository folder",
       "fullTitle": "this lab has a README.md file in the my-repository folder",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "has README.md as a tracked file",
       "fullTitle": "the local repository has README.md as a tracked file",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -100,7 +100,7 @@
     {
       "title": "has been pushed up to the remote repository",
       "fullTitle": "the local repository has been pushed up to the remote repository",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {
         "stack": "TypeError: Cannot read property 'passes' of undefined\n    at withReplacedStdout (node_modules/mocha-multi/mocha-multi.js:165:14)\n    at withReplacedStdout (node_modules/mocha-multi/mocha-multi.js:114:12)\n    at Runner.runner.on.eventArgs (node_modules/mocha-multi/mocha-multi.js:164:7)",
